@@ -1,3 +1,4 @@
+// Thank you for the help on this importing code to Liam
 const fs = require("fs");
 let inputData = fs.readFileSync("./data.txt", "utf-8").split("\n");
 
